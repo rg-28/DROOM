@@ -1,12 +1,19 @@
 # DROOM 
 
-**Students:** Hemant 
+**Students:** Hemant Garg
+              
               Pranjal Shukla 
+              
               Priyadarshan Roy 
+              
               Rajan Gupta
+              
               Shubhra Mittal
               
+              Dinesh Kumar
+              
 **Mentors:** Dr. Garima Joshi
+             
              Pranav Kumar 
              
 **Code:**
@@ -23,7 +30,7 @@
 Now-a-days, due to the increased number of diseases in the agricultural fields across the crops, the production of the desired product is decreasing at a significant rate. This is to be tackled in a professional manner with correct use of efficient and economically stable technology. This can maneuver the agricultural production in a positive manner.
 
 ### Existing Technologies 
-• There are few technologies which use visual inspection of plant germplasm and subsequent selection of healthy material. There are  technologies such as serodiagnostics, cytometry, real-time PCR. 
+• There are few technologies which use visual inspection of plant germplasm and subsequent selection of healthy material. There are technologies such as serodiagnostics, cytometry, real-time PCR. 
 • The technology i.e. the bot that we will be using will not require any human interaction with the crops in the field.
 
 
