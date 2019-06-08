@@ -1,6 +1,8 @@
 # DROOM 
 
-**Students:** Hemant Garg
+**Students:** 
+              
+              Hemant Garg
               
               Pranjal Shukla 
               
@@ -12,7 +14,9 @@
               
               Dinesh Kumar
               
-**Mentors:** Dr. Garima Joshi
+**Mentors:** 
+
+             Dr. Garima Joshi
              
              Pranav Kumar 
              
