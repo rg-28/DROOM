@@ -3,23 +3,23 @@
 
 **Students:** 
               
-              Hemant Garg
+              Hemant Garg @hemantgarg26
               
-              Pranjal Shukla 
+              Pranjal Shukla @shuklaps99
               
-              Priyadarshan Roy 
+              Priyadarshan Roy @RoyPriyadarshan
               
-              Rajan Gupta
+              Rajan Gupta @rg-28
               
-              Shubhra Mittal
+              Shubhra Mittal @shubhramittal4
               
-              Dinesh Kumar
+              Dinesh Kumar @dinesh4914
               
 **Mentors:** 
 
              Dr. Garima Joshi
              
-             Pranav Kumar 
+             Pranav Kumar @pranav083
              
 **Code:**
 
@@ -43,7 +43,8 @@ Now-a-days, due to the increased number of diseases in the agricultural fields a
 ## Project Overview 
 
 ### Block Diagram 
-![IMAGE](https://github.com/RoyPriyadarshan/DROOM/blob/master/Block_diagram.jpg)
+
+![Block Diagram](https://github.com/RoyPriyadarshan/DROOM/blob/master/Block_diagram.jpg)
 
 There are a few technologies which use Visual inspection of plant germplasm and subsequent selection of healthy materials. There are technologies such as sero-diagnostics, cytometry and real time PCR.
 
@@ -56,15 +57,31 @@ The bot primarily consists of 6 Motors in which four of them are the driving mot
 
 ### Components 
 
-#### Hardware 
-#### Software
+#### Electronics  
+
+|S. No.|  Name  |  Image  |  Description  |  Quantity  |
+|:-----:|  -----  |  -----  |  -----  |  :-----:  |
+|1| Raspberry pi |     | The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games. | 1 | 
+|2| nRF Transeiver |     | nRF24L01 is a single chip radio transceiver for the world wide 2.4 - 2.5 GHz ISM band. The transceiver consists of a fully integrated frequency synthesizer, a power amplifier, a crystal oscillator, a demodulator, modulator and Enhanced ShockBurst protocol engine. Output power, frequency channels, and protocol setup are easily programmable through a SPI interface. Current consumption is very low, only 9.0mA at an output power of -6dBm and 12.3mA in RX mode. Built-in Power Down and Standby modes makes power saving easily realizable. | 1 |
+|3| NEO-6M GPS |     | The NEO-6M GPS module is a well-performing complete GPS receiver with a built-in 25 x 25 x 4mm ceramic antenna, which provides a strong satellite search capability. With the power and signal indicators, you can monitor the status of the module. | 1 |
+|4| Gyroscope GY-521 |     | The MPU6050 contains both a 3-Axis Gyroscope and a 3-Axis accelerometer allowing measurements of both independently, but all based around the same axes, thus eliminating the problems of cross-axis errors when using separate devices. | 1 | 
+|5| Ultrasonic HC-sr05|     | The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. It comes complete with ultrasonic transmitter and receiver modules. | 1 |
+|6| L298 Motor Driver |     | It is a high voltage, high current dual full-bridge driver designed to accept standard TTL logic levels and drive inductive loads such as relays, solenoids, DC and stepping motors. | 3 | 
+|7| Servo Motor |     | A servo motor is a rotary actuator or motor that allows for a precise control in terms of angular position, acceleration and velocity, capabilities that a regular motor does not have. It makes use of a regular motor and pairs it with a sensor for position feedback. The controller is the most sophisticated part of the servo motor, as it is specifically designed for the purpose. | 3 |
+|8| Johnson Motor 100 rpm |     | The motor will run smoothly between the voltage range 6 to 18 V DC and give you 100 RPM at 12V supply. It provides the torque of 6.5 kg-cm at 100 RPM. These Grade A Quality Johnson DC Motors are well known for their reliability. | 1 |
+|9| Picam |     | The Pi camera module is a portable light weight camera that supports Raspberry Pi. It communicates with Pi using the MIPI camera serial interface protocol. It is normally used in image processing, machine learning or in surveillance projects. It is commonly used in surveillance drones since the payload of camera is very less. Apart from these modules Pi can also use normal USB webcams that are used along with computer. | 1 | 
+|10| Microcontroller PIC18F452 |     | 
+|11| Joystick Module |     | A joystick is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling. | 1 |
+
+#### Mechanical 
 
 ### Timeline 
 
 ### Progress Till now
   Day 1: Discussion of basic outline of the project; selection of components, both hardware and software; preparation of timeline. <br/>
   Day 2: Familiarization with hardware. <br/>
-  Day 3: Setting up of Raspberry pi. 
+  Day 3: Setting up of Raspberry pi. <br/>
+  Day 4: Interfacing L298 motor driver and HC-sr05 Ultrasonic sensor. 
 
 
 ## Final Goals 
