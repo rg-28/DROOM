@@ -44,7 +44,7 @@ Now-a-days, due to the increased number of diseases in the agricultural fields a
 
 ### Block Diagram 
 
-![Block Diagram](https://github.com/RoyPriyadarshan/DROOM/blob/master/Block_diagram.jpg)
+![Block Diagram](New_Diagram.jpg)
 
 There are a few technologies which use Visual inspection of plant germplasm and subsequent selection of healthy materials. There are technologies such as sero-diagnostics, cytometry and real time PCR.
 
