@@ -103,6 +103,11 @@ The bot primarily consists of 6 Motors in which four of them are the driving mot
   * Day 2: Basic CAD Model prepared. <br/>
   * Day 3: Interfacing of MPU6050 done. <br/>
   * Day 4: CAD model fully prepared.</br>
+##### Week 3 <br/>
+  * Day 1: Preparation of circuit diagram.
+  * Day 2: Code for Ultrasonic sensor and motor driver combined.
+  * Day 3: Actual prototype partially prepared.
+  * Day 4: Circuit diagram prepared. 
   
 
 ## Final Goals 
