@@ -75,6 +75,10 @@ The bot primarily consists of 6 Motors in which four of them are the driving mot
 
 #### Mechanical 
 
+### Circuit Diagram 
+
+![Circuit Diagram](Images/DROOM_Schematic.png)
+
 ### Timeline 
 ##### Week 1 <br/>
 * Discussion of basic outline of project.
