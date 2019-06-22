@@ -53,7 +53,7 @@ In our bot, image of the plant is captured through the camera which is controlle
 The bot primarily consists of 6 Motors in which four of them are the driving motors and two Servo Motors are attached for steering purposes. The Motors used in this project are simple Johnson Motors with 100 RPM, because this particular Motor provides an adequate speed for perfect detection of diseases in plant through the camera. Once the data is collected it is been uploaded to a server where the machine is trained to identify the disease and prescribe the accurate diagnosis to that particular disease. The machine is trained accordingly such that it also recommends the accurate brand for that particular disease and the nearest place where it is available.
 
 
-## Detailed Discription 
+## Detailed Description 
 
 ### Components 
 
@@ -67,7 +67,7 @@ The bot primarily consists of 6 Motors in which four of them are the driving mot
 |4|Gyroscope <br/>GY-521|![Gyroscope GY-521](Images/Gyroscope%20GY-521.jpg)| The MPU6050 contains both a 3-Axis Gyroscope and a 3-Axis accelerometer allowing measurements of both independently, but all based around the same axes, thus eliminating the problems of cross-axis errors when using separate devices. |1| 
 |5|Ultrasonic <br/>HC-sr05|![Ultrasonic HC-sr05](Images/Ultrasonic%20HC-sr05.jpg)| The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. It comes complete with ultrasonic transmitter and receiver modules. |1|
 |6|L298 Motor <br/>Driver|![L298 Motor Driver](Images/L298%20Motor%20Driver.jpg)| It is a high voltage, high current dual full-bridge driver designed to accept standard TTL logic levels and drive inductive loads such as relays, solenoids, DC and stepping motors. |3| 
-|7|Servo Motor|![Servo Motor](Images/Servo%20motor.jpg)| A servo motor is a rotary actuator or motor that allows for a precise control in terms of angular position, acceleration and velocity, capabilities that a regular motor does not have. It makes use of a regular motor and pairs it with a sensor for position feedback. The controller is the most sophisticated part of the servo motor, as it is specifically designed for the purpose. |3|
+|7|Servo Motor|![Servo Motor](Images/Servo%20motor.jpg)| A servo motor is a rotary actuator or motor that allows for a precise control in terms of angular position, acceleration and velocity, capabilities that a regular motor does not have. It makes use of a regular motor and pairs it with a sensor for position feedback. The controller is the most sophisticated part of the servo motor, as it is specifically designed for the purpose. |6|
 |8|Johnson <br/>Motor <br/>100 rpm|![Johnson Motor 100 rpm](Images/Johnson%20Motor.jpg)| The motor will run smoothly between the voltage range 6 to 18 V DC and give you 100 RPM at 12V supply. It provides the torque of 6.5 kg-cm at 100 RPM. These Grade A Quality Johnson DC Motors are well known for their reliability. |1|
 |9|Picam|![Picam](Images/PiCam.jpg)| The Pi camera module is a portable light weight camera that supports Raspberry Pi. It communicates with Pi using the MIPI camera serial interface protocol. It is normally used in image processing, machine learning or in surveillance projects. It is commonly used in surveillance drones since the payload of camera is very less. Apart from these modules Pi can also use normal USB webcams that are used along with computer. |1| 
 |10|Micro- <br/>controller <br/>PIC18F452|     | 
@@ -102,6 +102,7 @@ The bot primarily consists of 6 Motors in which four of them are the driving mot
   * Day 1: Interfacing L298 motor driver and HC-sr05 Ultrasonic sensor. <br/>
   * Day 2: Basic CAD Model prepared. <br/>
   * Day 3: Interfacing of MPU6050 done. <br/>
+  * Day 4: CAD model fully prepared.</br>
   
 
 ## Final Goals 
